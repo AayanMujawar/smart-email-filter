@@ -1,0 +1,12 @@
+# Google API credentials
+backend/credentials.json
+backend/token.json
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment files
+.env
